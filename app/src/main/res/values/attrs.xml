@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    
+    <declare-styleable name="PasswordEditText">
+
+        <!--边框宽度-->
+        <attr name="borderWidth" format="dimension"/>
+        <!--边框颜色-->
+        <attr name="borderColor" format="color"/>
+        <!--边框圆角-->
+        <attr name="borderRadius" format="dimension"/>
+
+        <!--密码长度-->
+        <attr name="passwordLength" format="integer"/>
+
+        <!--密码颜色-->
+        <attr name="passwordColor" format="color"/>
+
+        <!--密码宽度-->
+        <attr name="passwordWidth" format="dimension"/>
+        <!--密码圆角-->
+        <attr name="passwordRadius" format="dimension"/>
+
+
+        
+    </declare-styleable>
+
+
+
+    
+</resources>
